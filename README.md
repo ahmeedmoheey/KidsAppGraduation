@@ -1,2 +1,2 @@
-# KidsAppgGraduation
+# KidsApp Graduation
 Project for graduation
